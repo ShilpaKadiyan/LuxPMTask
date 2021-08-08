@@ -1,5 +1,9 @@
 # LuxPMTask
 TestTask
+
+**Note** : ScreenShots of tested Application added in root folder i.e ShilpaKadiyan/LuxPMTask
+
+
 Functionalities Implemented :
 >Login
 >Validation on Username 
