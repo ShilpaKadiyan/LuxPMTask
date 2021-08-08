@@ -1,0 +1,51 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "3sj-6U-If6"; */
+"3sj-6U-If6.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "9Ax-ar-ZLq"; */
+"9Ax-ar-ZLq.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "Loaded by FirstViewController";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "DEL-Za-IeP"; */
+"DEL-Za-IeP.title" = "Item";
+
+/* Class = "UILabel"; text = "비밀번호 찾기"; ObjectID = "G8M-CU-U4a"; */
+"G8M-CU-U4a.text" = "비밀번호 찾기";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "Isp-Ad-bfc"; */
+"Isp-Ad-bfc.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "First View";
+
+/* Class = "UILabel"; text = "계정이 없으신가요? 가입하기"; ObjectID = "MFM-EW-JFr"; */
+"MFM-EW-JFr.text" = "계정이 없으신가요? 가입하기";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "RgA-sw-9gm"; */
+"RgA-sw-9gm.text" = "Forgot Password?";
+
+/* Class = "UITextField"; text = "sabahat@gmail.com"; ObjectID = "SFP-Vk-Gf5"; */
+"SFP-Vk-Gf5.text" = "sabahat@gmail.com";
+
+/* Class = "UITextField"; text = "sabahat@gmail.com"; ObjectID = "aai-4t-uQ8"; */
+"aai-4t-uQ8.text" = "sabahat@gmail.com";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "First";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Second";
+
+/* Class = "UILabel"; text = "로그인"; ObjectID = "jBb-3g-o9Q"; */
+"jBb-3g-o9Q.text" = "로그인";
+
+/* Class = "UILabel"; text = "Please enter the email associated to your account."; ObjectID = "oru-WU-WJl"; */
+"oru-WU-WJl.text" = "Please enter the email associated to your account.";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Second View";
