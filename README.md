@@ -1,7 +1,8 @@
 # LuxPMTask
 TestTask
 
-**Note** : ScreenShots of tested Application added in root folder i.e ShilpaKadiyan/LuxPMTask
+**Note** : ScreenShots of tested Application on Iphone 11 Pro Max (Simulator),  
+added in root folder i.e ShilpaKadiyan/LuxPMTask
 
 
 Functionalities Implemented :
